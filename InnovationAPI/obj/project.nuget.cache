@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "5jh+ZnwR1Vo=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\KSEERSHA\\Repo\\InnovationAPI\\InnovationAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\KSEERSHA\\AppData\\Roaming\\NuGet\\True' doesn't exist.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\KSEERSHA\\AppData\\Roaming\\NuGet\\True' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    }
+  ]
+}
